@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Spywest Online Sales and Marketing - Boost your business with our digital tools and services.">
+  <meta name="author" content="Spywest">
+  <title>Spywest Online Sales & Marketing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #0073e6;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      background-color: white;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    .button {
+      background-color: #28a745;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+    .button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Spywest Online Sales & Marketing</h1>
+    <p>Your ultimate partner for business growth in the digital age</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>Spywest provides top-notch online sales and marketing solutions to help businesses succeed in the digital world. We specialize in creating personalized sales strategies and utilizing modern tools to increase your revenue and brand presence.</p>
+    </section>
+
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li>Digital Marketing</li>
+        <li>SEO and Content Strategy</li>
+        <li>Sales Automation</li>
+        <li>Market Research</li>
+        <li>Lead Generation</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Get Started</h2>
+      <p>Ready to take your business to the next level? Contact us today to get started with our services.</p>
+      <a href="https://github.com/Spywest/Spywestonlinesalesandmarketing" class="button" target="_blank">Visit our GitHub</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Spywest | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
